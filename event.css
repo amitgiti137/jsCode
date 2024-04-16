@@ -1,0 +1,18 @@
+button{
+    background-color:grey;
+    color: red;
+}
+div{
+    width: 100px;
+    height: 80px;
+    border: 10px dotted aquamarine;
+    color: blueviolet;
+}
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}
